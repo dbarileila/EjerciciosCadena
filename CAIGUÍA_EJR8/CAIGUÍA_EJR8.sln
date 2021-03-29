@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAIGUÍA_EJR8", "CAIGUÍA_EJR8.csproj", "{C023A500-2DB7-409F-9264-AF0E54B3B139}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C023A500-2DB7-409F-9264-AF0E54B3B139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C023A500-2DB7-409F-9264-AF0E54B3B139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C023A500-2DB7-409F-9264-AF0E54B3B139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C023A500-2DB7-409F-9264-AF0E54B3B139}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8D8B361-6B7A-4951-A920-36302A99A257}
+	EndGlobalSection
+EndGlobal
